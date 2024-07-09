@@ -24,7 +24,7 @@ I enjoy working on projects that challenge my skills and allow me to grow as a d
 
 ### 📫 How to reach me
 - Email: info@kpksoftwareinnovations.com / kokarolos@gmail.com
-- LinkedIn: [Karol Koniewicz]([https://www.linkedin.com/in/karol-koniewicz](https://www.linkedin.com/in/kpkonie/))
+- LinkedIn: [Karol Koniewicz][https://www.linkedin.com/in/karol-koniewicz](https://www.linkedin.com/in/kpkonie/)
 - WebSite: [KPK SOFTWARE INNOVATIONS](https://www.kpksoftwareinnovations.com)
 
 ### 😄 Pronouns
